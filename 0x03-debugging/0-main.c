@@ -2,12 +2,9 @@
 
 /**
  * main - Entry point
- *
  * Description: Tests function that prints if integer is positive or negative
- *
  * Return: Always 0
  */
-
 int main(void)
 {
 int i;
