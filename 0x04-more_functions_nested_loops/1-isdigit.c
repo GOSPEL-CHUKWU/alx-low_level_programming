@@ -1,6 +1,4 @@
-
-
-#include "holberton.h"
+#include "main.h"
 
 /**
  * _isdigit - Entry point
