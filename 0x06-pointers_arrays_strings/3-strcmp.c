@@ -16,7 +16,6 @@ while (s1[a])
 {
 a++;
 }
-  
 while (s2[b])
 {
 b++;
